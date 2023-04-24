@@ -23,4 +23,5 @@ I've set the following contraints on the project to make the project uniform:
 
 ## Data
 
-The data used in this project is the (Popular Video Games 1980 - 2023 dataset)[https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023.] from kaggle.
+The data used in this project is the [Popular Video Games 1980 - 2023 dataset](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)
+from kaggle.
