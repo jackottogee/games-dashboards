@@ -24,4 +24,11 @@ I've set the following contraints on the project to make the project uniform:
 ## Data
 
 The data used in this project is the [Popular Video Games 1980 - 2023 dataset](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)
-from kaggle.
+from Kaggle.
+
+## Streamlit
+
+To execute the Streamlit app, navigate to the ```streamlit``` directory. First make sure the dependencies are installed via ```pip install -r requirements.txt```. 
+Then execute the command:
+```streamlit run Home.py```
+The app should now be running.
