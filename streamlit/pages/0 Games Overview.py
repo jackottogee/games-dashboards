@@ -23,7 +23,7 @@ palette = "blend:#7AB,#EDA"
 @st.cache_data
 def get_data():
     try:
-        conn = sql.connect("./data/games.db")
+        conn = sql.connect("../data/games.db")
         df = pd.read_sql_query("select * from games", conn, index_col="index")
         return df
     except sql.Error as error:
