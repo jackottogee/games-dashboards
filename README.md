@@ -34,6 +34,6 @@ Then execute the command from the master directory:
 The app should run.
 
 ## Shiny
-To execute the Shiny app, start R from the master directory and in the and run the command:
+To execute the Shiny app, start R from the master directory and in the R-console run the command:
 ```shiny:runApp("shiny/app.R")```
 The app should run.
