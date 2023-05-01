@@ -28,7 +28,12 @@ from Kaggle.
 
 ## Streamlit
 
-To execute the Streamlit app, navigate to the ```streamlit``` directory. First make sure the dependencies are installed via ```pip install -r requirements.txt```. 
-Then execute the command:
-```streamlit run Home.py```
-The app should now be running.
+First make sure the dependencies are installed via ```pip install -r requirements.txt```. 
+Then execute the command from the master directory:
+```streamlit run "streamlit/Home.py"```
+The app should run.
+
+## Shiny
+To execute the Shiny app, start R from the master directory and in the and run the command:
+```shiny:runApp("shiny/app.R")```
+The app should run.
