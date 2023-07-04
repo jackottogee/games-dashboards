@@ -2,7 +2,7 @@
 
 Encased in this repo is any code contributing to the following pledge:
 
-> I will make four dashboards in four weeks with four different languages and four different technologies
+> I will make four dashboards with four different languages and four different technologies
 
 ## Technologies
 
